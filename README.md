@@ -269,7 +269,7 @@ Html
 </div>
   <div class="thankyou">
         <p>Thank you for using our page! </p>
-~By Uday , Reashul, Ankit 
+~By Uday 
     </div>
 <script src="script.js"></script>
 </body>
